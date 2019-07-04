@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Padrões de Projeto",
+      "author": "Jonatas Ferreira"
+    },
+    {
+      "id": 2,
+      "title": "Arquitetura Empresarial",
+      "author": "Vinicius da Costa"
+    },
+    {
+      "id": 3,
+      "title": "Java 8",
+      "author": "Vinicius da Costa"
+    },
+    {
+      "title": ".Net Core",
+      "author": "Rangel Domingues OPAH",
+      "id": 4
+    }
+  ]
+}
